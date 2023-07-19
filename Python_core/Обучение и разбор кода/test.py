@@ -10,3 +10,18 @@ while current_month <= months_of_learning:
 print("Теперь я немного умею кодить!")
 
 print("Если найдутся желающие HR, то могут наблюдать за моим развитием и потом предложить будущему ученику пайтон разработчика интересный проект.")
+
+
+print(not True)	
+
+print(not False)	
+
+print(not True or False)	
+
+print(not True or True)	
+
+print(not (True or False))	
+
+print(not True and not False)	
+
+print(not (True and True))
